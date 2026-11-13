@@ -1,0 +1,83 @@
+{
+  "start": 540,
+  "end": 1050,
+  "slots": [
+    {
+      "kind": "meeting",
+      "label": "Standup",
+      "start": 570,
+      "end": 585,
+      "start_text": "09:30",
+      "end_text": "09:45"
+    },
+    {
+      "kind": "task",
+      "label": "Fix login regression",
+      "start": 585,
+      "end": 675,
+      "start_text": "09:45",
+      "end_text": "11:15"
+    },
+    {
+      "kind": "break",
+      "label": "break",
+      "start": 675,
+      "end": 690,
+      "start_text": "11:15",
+      "end_text": "11:30"
+    },
+    {
+      "kind": "task",
+      "label": "Write release notes",
+      "start": 690,
+      "end": 735,
+      "start_text": "11:30",
+      "end_text": "12:15"
+    },
+    {
+      "kind": "task",
+      "label": "Review pull requests",
+      "start": 735,
+      "end": 795,
+      "start_text": "12:15",
+      "end_text": "13:15"
+    },
+    {
+      "kind": "break",
+      "label": "break",
+      "start": 795,
+      "end": 810,
+      "start_text": "13:15",
+      "end_text": "13:30"
+    },
+    {
+      "kind": "meeting",
+      "label": "Design review",
+      "start": 840,
+      "end": 900,
+      "start_text": "14:00",
+      "end_text": "15:00"
+    },
+    {
+      "kind": "task",
+      "label": "Answer support backlog",
+      "start": 900,
+      "end": 950,
+      "start_text": "15:00",
+      "end_text": "15:50"
+    },
+    {
+      "kind": "task",
+      "label": "Draft next sprint",
+      "start": 950,
+      "end": 1020,
+      "start_text": "15:50",
+      "end_text": "17:00"
+    }
+  ],
+  "unscheduled": [],
+  "break_minutes": 15,
+  "planned_minutes": 390,
+  "free_minutes": 120,
+  "utilization": 0.7647
+}

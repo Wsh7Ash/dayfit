@@ -1,0 +1,14 @@
+dayfit agenda
+==============================================
+09:30-09:45 [meet] Standup
+09:45-11:15 [task] Fix login regression
+11:15-11:30 [brk]  break
+11:30-12:15 [task] Write release notes
+12:15-13:15 [task] Review pull requests
+13:15-13:30 [brk]  break
+14:00-15:00 [meet] Design review
+15:00-15:50 [task] Answer support backlog
+15:50-17:00 [task] Draft next sprint
+----------------------------------------------
+planned 390 min of 510 (76%), free 120 min
+unscheduled: none

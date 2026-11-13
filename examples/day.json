@@ -1,0 +1,17 @@
+{
+  "start": "09:00",
+  "end": "17:30",
+  "break_every": 90,
+  "break_minutes": 15,
+  "meetings": [
+    { "name": "Standup", "start": "09:30", "minutes": 15 },
+    { "name": "Design review", "start": "14:00", "minutes": 60 }
+  ],
+  "tasks": [
+    { "name": "Fix login regression", "minutes": 90, "priority": 1 },
+    { "name": "Write release notes", "minutes": 45, "priority": 1 },
+    { "name": "Review pull requests", "minutes": 60, "priority": 2 },
+    { "name": "Answer support backlog", "minutes": 50, "priority": 3 },
+    { "name": "Draft next sprint", "minutes": 70, "priority": 3 }
+  ]
+}

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dayfit"
+version = "1.0.0"
+description = "Fit a priority-ordered task list into a real working day, with meetings and breaks"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["productivity", "planning", "timeboxing", "schedule"]
+dependencies = []
+
+[project.scripts]
+dayfit = "dayfit.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
